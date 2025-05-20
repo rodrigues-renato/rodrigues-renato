@@ -1,6 +1,6 @@
 ## 👨‍💻 Hello, I'm Renato!
 
-I'm a 19-year-old data enthusiast, AWS Cloud Practitioner certified, passionate about solving problems and constantly looking to improve both technically and professionally. I'm currently a Trainee at Compass UOL and excited to grow into a strong Data Engineer.
+I'm a data enthusiast, AWS certified, passionate about solving problems and constantly looking to improve both technically and professionally.
 
 ---
 
